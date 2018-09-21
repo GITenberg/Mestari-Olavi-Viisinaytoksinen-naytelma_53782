@@ -1,0 +1,36 @@
+_repo: Mestari-Olavi-Viisinaytoksinen-naytelma_53782
+_version: 0.0.1
+alternative_title: Mäster Olof. Finnish
+contributor:
+  translator:
+    agent_name: Koskelainen, Yrjö
+    alias: Koskelainen, Yrjo
+    birthdate: 1885
+    deathdate: 1951
+    gutenberg_agent_id: '44560'
+    url: http://www.gutenberg.org/2009/agents/44560
+creator:
+  author:
+    agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
+description: ''
+gutenberg_issued: '2016-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53782'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical drama'
+- !lcsh 'Swedish drama -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: 'Mestari Olavi: Viisinäytöksinen näytelmä'
+url: http://www.gutenberg.org/ebooks/53782
